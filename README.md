@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/banners/891995563833315328/5a814ac8fedd53db56fe9acf3653782c.png?size=512" width="600px" class="_img">
+<img src="https://cdn.discordapp.com/banners/973510742026375169/a_44c2e7a5835211a95f43e94be7be8a30.gif?size=512" width="600px" class="_img">
 
 - 👋 Hi, I’m @haru2125
 - 👀 I’m interested in Website
