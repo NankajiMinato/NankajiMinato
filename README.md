@@ -1,6 +1,3 @@
-<img src="https://cdn.discordapp.com/banners/973510742026375169/a_44c2e7a5835211a95f43e94be7be8a30.gif?size=512" width="600px" class="_img">
+cuz this profile have too many bad project, then i switched my github main profile xd
 
-- 👋 Hi, I’m @haru2125
-- 👀 I’m interested in Website
-- 🌱 I’m currently learning NextJS
-- 📫 How to reach me : [Facebook](https://www.facebook.com/haru2125/)
+check out : [new](https://github.com/harudev21)
